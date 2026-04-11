@@ -6,13 +6,13 @@
 
 ## 📌 About Me
 
-* 🔭 Building **production-structured backend systems (Node.js + Express + MongoDB)**
-* 🧠 Strong focus on **API design, data flow, and system architecture**
+* 🔭 Building **production-structured backend systems (Node.js + Express + MongoDB/PostgreSQL)**
+* 🧠 Focus on **API design, data flow, and scalable architecture**
 * ⚙️ Implementing **layered backend architecture (Controller → Service → DB)**
 * 🔐 Developing **secure authentication systems (JWT, protected routes, validation)**
-* 📊 Designing **efficient queries with indexing and optimized data access**
-* 🌱 Actively improving **DSA (trees, graphs, recursion, problem-solving patterns)**
-* 🚧 Working towards **scalable, real-world system design (not tutorial projects)**
+* 📊 Optimizing **database queries using indexing and efficient access patterns**
+* 🌱 Improving **DSA (trees, graphs, recursion, problem-solving patterns)**
+* 🚧 Working towards **real-world scalable systems, not tutorial projects**
 
 ---
 
@@ -28,11 +28,11 @@
 <a href="https://linkedin.com/in/rashidnarikkodan" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://instagram.com/rashid_narikkodan" target="blank">
+<a href="https://instagram.com/rashid_narikkodan" target="_blank">
 <img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" width="40" />
 </a>
-<a href="https://x.com/rashidnarikodan" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" height="30" width="40" />
+<a href="https://twitter.com/rashidnarikodan" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
 <a href="https://youtube.com/@rashidnarikkodan" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=youtube" height="30" width="40" />
@@ -48,6 +48,6 @@
 
 <p align="left">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,threejs,ts,redux,tailwind,git,linux,docker" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,postgres,threejs,ts,redux,tailwind,bootstrap,git,linux,nginx,aws,vercel" />
 </a>
 </p>
