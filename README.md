@@ -17,10 +17,10 @@
 ## 🤝 Connect with Me
 
 <p align="left">
-<a href="mailto:rashidnarikkodan20@gmail.com">
+<a href="mailto:rashidnarikkodan20@gmail.com" style="color: inherit; text-decoration: none;">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
-<a href="https://linkedin.com/in/rashidnarikkodan">
+<a href="https://linkedin.com/in/rashidnarikkodan" style="color: inherit; text-decoration: none;">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 </p>
@@ -30,23 +30,23 @@
 ## 🌐 Social Media
 
 <p align="left">
-<a href="https://github.com/rashidnarikkodan">
+<a href="https://github.com/rashidnarikkodan" style="color: inherit; text-decoration: none;">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://instagram.com/rashid_narikkodan">
+<a href="https://instagram.com/rashid_narikkodan" style="color: inherit; text-decoration: none;">
 <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
 </a>
 
-<a href="https://twitter.com/rashidnarikodan">
+<a href="https://twitter.com/rashidnarikodan" style="color: inherit; text-decoration: none;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="50"/>
 </a>
 
-<a href="https://youtube.com/@rashidnarikkodan">
+<a href="https://youtube.com/@rashidnarikkodan" style="color: inherit; text-decoration: none;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="50"/>
 </a>
 
-<a href="https://medium.com/@rashidnarikkodan">
+<a href="https://medium.com/@rashidnarikkodan" style="color: inherit; text-decoration: none;">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="50"/>
 </a>
 </p>
