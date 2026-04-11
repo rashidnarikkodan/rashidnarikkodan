@@ -61,6 +61,10 @@
 <a href="https://medium.com/@rashidnarikkodan" style="color: inherit; text-decoration: none;">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="50"/>
 </a>
+
+<a href="https://leetcode.com/rashidnarikkodan" style="color: inherit; text-decoration: none;">
+<img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
+</a>
 </p>
 
 ---
@@ -68,5 +72,8 @@
 ## 🧱 Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,postgres,threejs,ts,redux,tailwind,bootstrap,git,linux,nginx,aws,vercel" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,postgres,threejs,ts,redux,tailwind,bootstrap,git,linux,nginx,aws,vercel,leetcode" />
 </p>
+
+* 🧠 Strong in **DSA, algorithms, and problem-solving**
+
