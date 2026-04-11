@@ -31,8 +31,8 @@
 <a href="https://instagram.com/rashid_narikkodan" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" width="40" />
 </a>
-<a href="https://twitter.com/rashidnarikodan" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+<a href="https://x.com/rashidnarikodan" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" height="30" width="40" />
 </a>
 <a href="https://youtube.com/@rashidnarikkodan" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=youtube" height="30" width="40" />
