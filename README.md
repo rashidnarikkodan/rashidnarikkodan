@@ -42,6 +42,18 @@
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="50"/>
 </a>
 
+<a href="https://t.me/rashidnarikkodan" style="color: inherit; text-decoration: none;">
+<img src="https://skillicons.dev/icons?i=telegram" height="50"/>
+</a>
+
+<a href="https://dev.to/rashidnarikkodan" style="color: inherit; text-decoration: none;">
+<img src="https://skillicons.dev/icons?i=dev" height="50"/>
+</a>
+
+<a href="https://hashnode.com/@rashidnarikkodan" style="color: inherit; text-decoration: none;">
+<img src="https://skillicons.dev/icons?i=hashnode" height="50"/>
+</a>
+
 <a href="https://youtube.com/@rashidnarikkodan" style="color: inherit; text-decoration: none;">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" height="50"/>
 </a>
