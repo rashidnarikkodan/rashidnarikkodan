@@ -17,12 +17,23 @@
 ## 🤝 Connect
 
 <p align="left">
-<a href="mailto:rashidnarikkodan20@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+
+<a href="mailto:rashidnarikkodan20@gmail.com" style="text-decoration:none;">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/rashidnarikkodan" style="text-decoration:none;">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://instagram.com/rashid_narikkodan" style="text-decoration:none;">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://x.com/rashidnarikkodan" style="text-decoration:none;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" height="45" style="fill:#ffffff;"/>
 </a>
-<a href="https://linkedin.com/in/rashidnarikkodan">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
+
 </p>
 
 ---
@@ -30,41 +41,31 @@
 ## 🌐 Social
 
 <p align="left">
-<a href="https://github.com/rashidnarikkodan">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+
+<a href="https://github.com/rashidnarikkodan" style="text-decoration:none;">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://dev.to/rashidnarikkodan" style="text-decoration:none;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/devdotto.svg" height="45" style="fill:#0A0A0A;"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://hashnode.com/@rashidnarikkodan" style="text-decoration:none;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hashnode.svg" height="45" style="fill:#2962FF;"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://youtube.com/@rashidnarikkodan" style="text-decoration:none;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" height="45" style="fill:#FF0000;"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://medium.com/@rashidnarikkodan" style="text-decoration:none;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/medium.svg" height="45" style="fill:#000000;"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://leetcode.com/rashidnarikkodan" style="text-decoration:none;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" height="45" style="fill:#FFA116;"/>
 </a>
 
-<a href="https://instagram.com/rashid_narikkodan">
-<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-</a>
-
-<a href="https://x.com/rashidnarikkodan">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" height="50"/>
-</a>
-
-<a href="https://t.me/rashidnarikkodan">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/telegram.svg" height="50"/>
-</a>
-
-<a href="https://dev.to/rashidnarikkodan">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/devdotto.svg" height="50"/>
-</a>
-
-<a href="https://hashnode.com/@rashidnarikkodan">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hashnode.svg" height="50"/>
-</a>
-
-<a href="https://youtube.com/@rashidnarikkodan">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" height="50"/>
-</a>
-
-<a href="https://medium.com/@rashidnarikkodan">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/medium.svg" height="50"/>
-</a>
-
-<a href="https://leetcode.com/rashidnarikkodan">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" height="50"/>
-</a>
 </p>
 
 ---
