@@ -18,10 +18,10 @@
 
 <p align="left">
 <a href="mailto:rashidnarikkodan20@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 <a href="https://linkedin.com/in/rashidnarikkodan">
-<img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 </p>
 
@@ -31,31 +31,39 @@
 
 <p align="left">
 <a href="https://github.com/rashidnarikkodan">
-<img src="https://skillicons.dev/icons?i=github" height="30"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
+
 <a href="https://instagram.com/rashid_narikkodan">
-<img src="https://skillicons.dev/icons?i=instagram" height="30"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
 </a>
+
 <a href="https://x.com/rashidnarikkodan">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" height="50"/>
 </a>
+
 <a href="https://t.me/rashidnarikkodan">
-<img src="https://skillicons.dev/icons?i=telegram" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/telegram.svg" height="50"/>
 </a>
+
 <a href="https://dev.to/rashidnarikkodan">
-<img src="https://skillicons.dev/icons?i=dev" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/devdotto.svg" height="50"/>
 </a>
+
 <a href="https://hashnode.com/@rashidnarikkodan">
-<img src="https://skillicons.dev/icons?i=hashnode" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hashnode.svg" height="50"/>
 </a>
+
 <a href="https://youtube.com/@rashidnarikkodan">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" height="50"/>
 </a>
+
 <a href="https://medium.com/@rashidnarikkodan">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/medium.svg" height="50"/>
 </a>
+
 <a href="https://leetcode.com/rashidnarikkodan">
-<img src="https://skillicons.dev/icons?i=leetcode" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" height="50"/>
 </a>
 </p>
 
