@@ -30,7 +30,7 @@
 <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://x.com/rashidnarikkodan" style="text-decoration:none;">
+<a href="https://x.com/rashidnarikodan" style="text-decoration:none;">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" height="45" style="fill:#ffffff;"/>
 </a>
 
