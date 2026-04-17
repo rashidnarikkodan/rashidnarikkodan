@@ -62,18 +62,20 @@ $ cat rashid_narikkodan.json
     </td>
     <td align="center">
       <strong>Frameworks & Libraries</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=express,react,redux,tailwind,bootstrap,threejs" height="48"/>
+      <img src="https://skillicons.dev/icons?i=express,react,redux,tailwind,bootstrap,threejs,firebase" height="48"/>
     </td>
   </tr>
 
   <tr>
     <td align="center">
       <strong>Databases</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres" height="48"/>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" height="48"/>
     </td>
     <td align="center">
       <strong>Infrastructure & Tooling</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,linux,nginx,aws,vercel,docker" height="48"/>
+      <img src="https://skillicons.dev/icons?i=git,linux,nginx,aws,vercel,docker,postman,figma" height="48"/>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=" height="1"/>
     </td>
   </tr>
 </table>
@@ -100,53 +102,81 @@ $ cat rashid_narikkodan.json
 
 </div>
 
+---
+
 ## `> cat /etc/contact.conf`
 
 <div align="center">
 
-<a href="mailto:rashidnarikkodan20@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-rashidnarikkodan20-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/rashidnarikkodan">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29"/>
-</a>
-&nbsp;
-<a href="https://x.com/rashidnarikodan">
-<img src="https://img.shields.io/badge/X-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0f0c29"/>
-</a>
+<table>
+  <tr>
+    <td align="center"><strong>📬 Primary</strong></td>
+    <td align="center"><strong>💼 Professional</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      &ensp;
+      <a href="mailto:rashidnarikkodan20@gmail.com">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29"/>
+      </a>
+      &ensp;
+      <a href="https://linkedin.com/in/rashidnarikkodan">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29"/>
+      </a>
+      &ensp;
+    </td>
+    <td align="center">
+      <a href="https://github.com/rashidnarikkodan">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29"/>
+      </a>
+      &ensp;
+      <a href="https://leetcode.com/rashidnarikkodan">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0c29"/>
+      </a>
+      &ensp;
+      <a href="https://x.com/rashidnarikodan">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0f0c29"/>
+      </a>
+      &ensp;
+    </td>
 
-<br/><br/>
+  </tr>
 
-<a href="https://github.com/rashidnarikkodan">
-<img src="https://img.shields.io/badge/GitHub--181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/rashidnarikkodan">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0c29"/>
-</a>
-&nbsp;
-<a href="https://dev.to/rashidnarikkodan">
-<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0f0c29"/>
-</a>
+  <tr>
+    <td align="center"><strong>🧠 Content</strong></td>
+    <td align="center"><strong>🎥 Media</strong></td>
+  </tr>
 
-<br/><br/>
+  <tr>
+    <td align="left">
+      &ensp;
+      <a href="https://dev.to/rashidnarikkodan">
+        <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0f0c29"/>
+      </a>
+      &ensp;
+      <a href="https://hashnode.com/@rashidnarikkodan">
+        <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0f0c29"/>
+      </a>
+      &ensp;
+      <a href="https://medium.com/@rashidnarikkodan">
+        <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0f0c29"/>
+      </a>
+      &ensp;
+    </td>
+    <td align="center">
+      &ensp;
+      <a href="https://youtube.com/@rashidnarikkodan">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0f0c29"/>
+      </a>
+      &ensp;
+      <a href="https://instagram.com/rashid_narikkodan">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0c29"/>
+      </a>
+      &ensp;
+    </td>
 
-<a href="https://hashnode.com/@rashidnarikkodan">
-<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0f0c29"/>
-</a>
-&nbsp;
-<a href="https://medium.com/@rashidnarikkodan">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0f0c29"/>
-</a>
-&nbsp;
-<a href="https://youtube.com/@rashidnarikkodan">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0f0c29"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/rashid_narikkodan">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0c29"/>
-</a>
+  </tr>
+</table>
 
 </div>
 
