@@ -19,19 +19,17 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif"/>
-
 ## `> whoami`
 
 ```bash
-$ cat rashid.json
+$ cat rashid_narikkodan.json
 ```
 
 ```json
 {
   "name": "Rashid Narikkodan",
   "role": "Full-Stack Developer",
-  "focus": ["Backend Systems", "API Design", "Scalable Architecture"],
+  "focus": ["Backend Systems", "API Design", "Scalable Architecture", "Solution builder"],
   "stack": {
     "runtime": "Node.js",
     "framework": "Express.js",
@@ -94,43 +92,6 @@ $ cat rashid.json
 
 </div>
 
----
-
-## `> ps aux | grep focus`
-
-```
-PROCESS                    STATUS       UPTIME
-─────────────────────────────────────────────────────────
-backend-systems            RUNNING      [████████████░░░]  85%
-api-design                 RUNNING      [██████████░░░░░]  70%
-jwt-auth-security          RUNNING      [████████░░░░░░░]  60%
-mongodb-indexing           RUNNING      [███████░░░░░░░░]  55%
-dsa-problem-solving        RUNNING      [█████░░░░░░░░░░]  40%
-system-architecture        BUILDING...  [████░░░░░░░░░░░]  30%
-```
-
----
-
-## `> curl -X GET /api/achievements`
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                        CURRENT SPRINT                           │
-├─────────────────────────────────────────────────────────────────┤
-│  ✦  Building production-structured Node.js + Express backends   │
-│  ✦  Designing secure JWT authentication with protected routes   │
-│  ✦  Optimizing MongoDB with indexing & efficient query design   │
-│  ✦  Studying Trees, Graphs, Recursion & Dynamic Programming     │
-│  ✦  Shipping full-stack MERN projects with clean architecture   │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
 ## `> cat /etc/contact.conf`
 
 <div align="center">
@@ -140,43 +101,43 @@ system-architecture        BUILDING...  [████░░░░░░░░░
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/rashidnarikkodan">
-<img src="https://img.shields.io/badge/LinkedIn-rashidnarikkodan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29"/>
 </a>
 &nbsp;
 <a href="https://x.com/rashidnarikodan">
-<img src="https://img.shields.io/badge/X-rashidnarikodan-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/X-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0f0c29"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/rashidnarikkodan">
-<img src="https://img.shields.io/badge/GitHub-rashidnarikkodan-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/GitHub--181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/rashidnarikkodan">
-<img src="https://img.shields.io/badge/LeetCode-rashidnarikkodan-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0c29"/>
 </a>
 &nbsp;
 <a href="https://dev.to/rashidnarikkodan">
-<img src="https://img.shields.io/badge/Dev.to-rashidnarikkodan-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0f0c29"/>
 </a>
 
 <br/><br/>
 
 <a href="https://hashnode.com/@rashidnarikkodan">
-<img src="https://img.shields.io/badge/Hashnode-rashidnarikkodan-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0f0c29"/>
 </a>
 &nbsp;
 <a href="https://medium.com/@rashidnarikkodan">
-<img src="https://img.shields.io/badge/Medium-rashidnarikkodan-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0f0c29"/>
 </a>
 &nbsp;
 <a href="https://youtube.com/@rashidnarikkodan">
-<img src="https://img.shields.io/badge/YouTube-rashidnarikkodan-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0f0c29"/>
 </a>
 &nbsp;
 <a href="https://instagram.com/rashid_narikkodan">
-<img src="https://img.shields.io/badge/Instagram-rashid__narikkodan-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0c29"/>
 </a>
 
 </div>
