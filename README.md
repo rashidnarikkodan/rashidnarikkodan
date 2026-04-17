@@ -54,21 +54,29 @@ $ cat rashid_narikkodan.json
 
 <div align="center">
 
-**Languages & Runtimes**
+<table>
+  <tr>
+    <td align="center">
+      <strong>Languages & Runtimes</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=js,ts,nodejs" height="48"/>
+    </td>
+    <td align="center">
+      <strong>Frameworks & Libraries</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=express,react,redux,tailwind,bootstrap,threejs" height="48"/>
+    </td>
+  </tr>
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs" height="48"/>
-
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=express,react,redux,tailwind,bootstrap,threejs" height="48"/>
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" height="48"/>
-
-**Infrastructure & Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,linux,nginx,aws,vercel,docker" height="48"/>
+  <tr>
+    <td align="center">
+      <strong>Databases</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres" height="48"/>
+    </td>
+    <td align="center">
+      <strong>Infrastructure & Tooling</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,linux,nginx,aws,vercel,docker" height="48"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
