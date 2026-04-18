@@ -110,8 +110,8 @@ $ cat rashid_narikkodan.json
 
 <table>
   <tr>
-    <td align="center"><strong>📬 Primary</strong></td>
-    <td align="center"><strong>💼 Professional</strong></td>
+    <td align="center"><strong>Primary</strong></td>
+    <td align="center"><strong>Professional</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -143,8 +143,8 @@ $ cat rashid_narikkodan.json
   </tr>
 
   <tr>
-    <td align="center"><strong>🧠 Content</strong></td>
-    <td align="center"><strong>🎥 Media</strong></td>
+    <td align="center"><strong>Content</strong></td>
+    <td align="center"><strong>Media</strong></td>
   </tr>
 
   <tr>
