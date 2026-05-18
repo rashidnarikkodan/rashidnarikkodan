@@ -1,194 +1,123 @@
 <div align="center">
+  <a href="https://github.com/rashidnarikkodan">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,7C3AED,a855f7&height=250&section=header&text=Rashid%20Narikkodan&fontSize=65&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Systems-Focused%20Full-Stack%20Engineer&descAlignY=60&descAlign=50&descSize=22" width="100%" alt="Header" />
+  </a>
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rashid%20Narikkodan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20System%20Architect%20%7C%20MERN%20Stack&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+  <a href="https://github.com/rashidnarikkodan">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=a855f7&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Architecting+event-driven+platforms;Engineering+for+performance+and+reliability;Crafting+real-time+communication+services" alt="Typing SVG" />
+  </a>
+</div>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+scalable+backend+systems;API+design+%26+architecture+first;MongoDB+%7C+Node.js+%7C+Express;Auth%2C+security%2C+performance+at+scale;DSA+%7C+Problem+solver+in+progress" alt="Typing SVG" />
+<br />
 
-<br/>
+---
 
-<!-- Profile views + followers badges -->
-<img src="https://komarev.com/ghpvc/?username=rashidnarikkodan&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
-&nbsp;
-<a href="https://github.com/rashidnarikkodan?tab=followers">
-<img src="https://img.shields.io/github/followers/rashidnarikkodan?style=for-the-badge&color=7C3AED&labelColor=0f0c29&label=FOLLOWERS"/>
+### About Me
+
+**Systems-Focused Full-Stack Engineer** specializing in high-performance backend engineering, system architecture, and API design. I am currently building scalable event-driven microservices and expanding my knowledge in advanced distributed systems and Linux kernel internals. Always open to exploring challenging engineering roles.
+
+---
+
+### Engineering Focus
+
+- **Backend Architecture:** Scalable backend systems, REST & GraphQL APIs
+- **Real-Time Systems:** WebSocket & WebRTC communication, live state synchronization
+- **Architecture & Design:** Event-driven systems, Microservices, Domain-Driven Design
+- **Infrastructure:** Linux workflows, Containerization, CI/CD pipelines
+- **Frontend Integration:** Performant React/Next.js applications with modern state management
+
+*Building real-world systems prioritizing maintainability, performance, and developer experience.*
+
+---
+
+### Tech Stack
+
+**Frontend Engineering**
+<br />
+<a href="https://github.com/rashidnarikkodan?tab=repositories">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,threejs&theme=dark" alt="Frontend Stack" />
 </a>
 
+**Backend & Real-Time**
+<br />
+<a href="https://github.com/rashidnarikkodan?tab=repositories">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,nestjs,rabbitmq&theme=dark" alt="Backend Stack" />
+</a>
+
+**Databases & Caching**
+<br />
+<a href="https://github.com/rashidnarikkodan?tab=repositories">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase&theme=dark" alt="Databases Stack" />
+</a>
+
+**DevOps & Infrastructure**
+<br />
+<a href="https://github.com/rashidnarikkodan?tab=repositories">
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions&theme=dark" alt="DevOps Stack" />
+</a>
+
+---
+
+### Projects
+
+- [**WashQueue**](https://github.com/rashidnarikkodan/WashQueue) — Real-time laundry queue management platform with live booking synchronization and persistent queue tracking. *(React, Node.js, Socket.IO, MongoDB)*
+- [**GitHub Profile Setup**](https://github.com/rashidnarikkodan/rashidnarikkodan) — My personal GitHub profile configurations and dynamic stats integration.
+- [**View All Projects →**](https://github.com/rashidnarikkodan?tab=repositories) — Explore my other systems-focused repositories, libraries, and open-source contributions.
+
+---
+
+### GitHub Metrics
+
+<!-- All metrics below are generated dynamically using APIs and are always up-to-date with your GitHub activity. -->
+<div align="center">
+  <a href="https://github.com/rashidnarikkodan">
+    <img src="https://github-readme-stats.vercel.app/api?username=rashidnarikkodan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=7C3AED&icon_color=a855f7&text_color=ffffff" width="49%" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/rashidnarikkodan?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidnarikkodan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=7C3AED&text_color=ffffff" width="49%" alt="Top Languages" />
+  </a>
+</div>
+<br />
+<div align="center">
+  <a href="https://github.com/rashidnarikkodan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashidnarikkodan&theme=tokyonight&hide_border=true&background=0f0c29&ring=7C3AED&fire=a855f7&currStreakNum=ffffff&currStreakLabel=7C3AED" width="100%" alt="GitHub Streak" />
+  </a>
+</div>
+<br />
+<div align="center">
+  <a href="https://github.com/rashidnarikkodan">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashidnarikkodan&theme=tokyo-night&bg_color=0f0c29&hide_border=true&color=a855f7&line=7C3AED&point=ffffff" width="100%" alt="Activity Graph" />
+  </a>
 </div>
 
 ---
 
-## `> whoami`
-
-```bash
-$ cat rashid_narikkodan.json
-```
-
-```json
-{
-  "name": "Rashid Narikkodan",
-  "role": "Full-Stack Developer",
-  "focus": ["Backend Systems", "API Design", "Scalable Architecture", "Solution builder"],
-  "stack": {
-    "runtime": "Node.js",
-    "framework": "Express.js",
-    "databases": ["MongoDB", "PostgreSQL"],
-    "frontend": ["React 19", "Redux", "Tailwind CSS"],
-    "infra": ["Nginx", "AWS", "Vercel", "Linux"]
-  },
-  "currently": {
-    "building": "Production-grade REST APIs with JWT auth",
-    "learning": "DSA — Trees, Graphs, DP",
-    "goal": "Staff-level backend engineer"
-  },
-  "available_for": "Collaboration & Open Source"
-}
-```
-
-<br clear="right"/>
-
----
-
-## `> ls -la ./stack`
+### Connect
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>Languages & Runtimes</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=js,ts,nodejs" height="48"/>
-    </td>
-    <td align="center">
-      <strong>Frameworks & Libraries</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=express,react,redux,tailwind,bootstrap,threejs,firebase" height="48"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <strong>Databases</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" height="48"/>
-    </td>
-    <td align="center">
-      <strong>Infrastructure & Tooling</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,linux,nginx,aws,vercel,docker,postman,figma" height="48"/>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=" height="1"/>
-    </td>
-  </tr>
-</table>
-
+  <a href="https://github.com/rashidnarikkodan">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/rashidnarikkodan">
+    <img src="https://img.shields.io/badge/linkedin-%23302b63.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/rashidnarikkodan">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://leetcode.com/rashidnarikkodan">
+    <img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="mailto:contact@example.com">
+    <img src="https://img.shields.io/badge/email-%237C3AED.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
----
-
-## `> git log --oneline --graph`
+<br />
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rashidnarikkodan&bg_color=0f0c29&color=7C3AED&line=a855f7&point=ffffff&area=true&area_color=7C3AED&hide_border=true&radius=8" width="98%" alt="Activity Graph"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=rashidnarikkodan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a855f7&icon_color=a855f7&text_color=ffffff&rank_icon=github" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidnarikkodan&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a855f7&text_color=ffffff&langs_count=8" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rashidnarikkodan&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" width="60%" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## `> cat /etc/contact.conf`
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center"><strong>Primary</strong></td>
-    <td align="center"><strong>Professional</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      &ensp;
-      <a href="mailto:rashidnarikkodan20@gmail.com">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29"/>
-      </a>
-      &ensp;
-      <a href="https://linkedin.com/in/rashidnarikkodan">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29"/>
-      </a>
-      &ensp;
-    </td>
-    <td align="center">
-      <a href="https://github.com/rashidnarikkodan">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29"/>
-      </a>
-      &ensp;
-      <a href="https://leetcode.com/rashidnarikkodan">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0c29"/>
-      </a>
-      &ensp;
-      <a href="https://x.com/rashidnarikodan">
-        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0f0c29"/>
-      </a>
-      &ensp;
-    </td>
-
-  </tr>
-
-  <tr>
-    <td align="center"><strong>Content</strong></td>
-    <td align="center"><strong>Media</strong></td>
-  </tr>
-
-  <tr>
-    <td align="left">
-      &ensp;
-      <a href="https://dev.to/rashidnarikkodan">
-        <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0f0c29"/>
-      </a>
-      &ensp;
-      <a href="https://hashnode.com/@rashidnarikkodan">
-        <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0f0c29"/>
-      </a>
-      &ensp;
-      <a href="https://medium.com/@rashidnarikkodan">
-        <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0f0c29"/>
-      </a>
-      &ensp;
-    </td>
-    <td align="center">
-      &ensp;
-      <a href="https://youtube.com/@rashidnarikkodan">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0f0c29"/>
-      </a>
-      &ensp;
-      <a href="https://instagram.com/rashid_narikkodan">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0c29"/>
-      </a>
-      &ensp;
-    </td>
-
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-<sub>
-<code>// Ship it. Measure it. Improve it.</code>
-</sub>
-
+  <i>Building robust systems that scale. Code is read more often than it is written.</i>
+  <br /><br />
+  <a href="https://github.com/rashidnarikkodan">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,302b63,0f0c29&height=100&section=footer" width="100%" alt="Footer" />
+  </a>
 </div>
