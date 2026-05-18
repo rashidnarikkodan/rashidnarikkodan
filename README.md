@@ -32,57 +32,43 @@
 
 ### Tech Stack
 
-**Frontend Engineering**
+**Frontend**
 <br />
 <a href="https://github.com/rashidnarikkodan?tab=repositories">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,threejs&theme=dark" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="Frontend Stack" />
 </a>
 
 **Backend & Real-Time**
 <br />
 <a href="https://github.com/rashidnarikkodan?tab=repositories">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,nestjs,rabbitmq&theme=dark" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Backend Stack" />
 </a>
 
-**Databases & Caching**
+**Databases**
 <br />
 <a href="https://github.com/rashidnarikkodan?tab=repositories">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase&theme=dark" alt="Databases Stack" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" alt="Databases Stack" />
 </a>
 
-**DevOps & Infrastructure**
+**Infrastructure**
 <br />
 <a href="https://github.com/rashidnarikkodan?tab=repositories">
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions&theme=dark" alt="DevOps Stack" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="DevOps Stack" />
 </a>
 
 ---
 
 ### Projects
 
-- [**WashQueue**](https://github.com/rashidnarikkodan/WashQueue) — Real-time laundry queue management platform with live booking synchronization and persistent queue tracking. *(React, Node.js, Socket.IO, MongoDB)*
-- [**GitHub Profile Setup**](https://github.com/rashidnarikkodan/rashidnarikkodan) — My personal GitHub profile configurations and dynamic stats integration.
-- [**View All Projects →**](https://github.com/rashidnarikkodan?tab=repositories) — Explore my other systems-focused repositories, libraries, and open-source contributions.
+- [**Venicara**](https://github.com/rashidnarikkodan/Venicara_v2) — Production-style e-commerce system featuring a robust server-rendered backend architecture, cart state management, and real business logic. *(Node.js, Express, MongoDB, EJS)*
+- [**Profile**](https://github.com/rashidnarikkodan/Profile) — Secure full-stack system implementing JWT authentication, protected routing, and robust user state management. *(React, Redux, Node.js)*
+- [**CinemaPot**](https://github.com/rashidnarikkodan/CinemaPot) — Polished frontend application showcasing real-world data consumption and API integration with a clean architecture. *(React, Vite, TMDB API)*
 
 ---
 
 ### GitHub Metrics
 
-<!-- All metrics below are generated dynamically using APIs and are always up-to-date with your GitHub activity. -->
-<div align="center">
-  <a href="https://github.com/rashidnarikkodan">
-    <img src="https://github-readme-stats.vercel.app/api?username=rashidnarikkodan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=7C3AED&icon_color=a855f7&text_color=ffffff" width="49%" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/rashidnarikkodan?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidnarikkodan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=7C3AED&text_color=ffffff" width="49%" alt="Top Languages" />
-  </a>
-</div>
-<br />
-<div align="center">
-  <a href="https://github.com/rashidnarikkodan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashidnarikkodan&theme=tokyonight&hide_border=true&background=0f0c29&ring=7C3AED&fire=a855f7&currStreakNum=ffffff&currStreakLabel=7C3AED" width="100%" alt="GitHub Streak" />
-  </a>
-</div>
+
 <br />
 <div align="center">
   <a href="https://github.com/rashidnarikkodan">
