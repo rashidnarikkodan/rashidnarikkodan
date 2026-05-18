@@ -35,25 +35,25 @@
 **Frontend**
 <br />
 <a href="https://github.com/rashidnarikkodan?tab=repositories">
-  <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind,bootstrap,threejs,vite,webpack,babel&theme=dark" alt="Frontend Stack" />
 </a>
 
-**Backend & Real-Time**
+**Backend**
 <br />
 <a href="https://github.com/rashidnarikkodan?tab=repositories">
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" alt="Backend Stack" />
 </a>
 
 **Databases**
 <br />
 <a href="https://github.com/rashidnarikkodan?tab=repositories">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" alt="Databases Stack" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase&theme=dark" alt="Database Stack" />
 </a>
 
-**Infrastructure**
+**Infrastructure & Tools**
 <br />
 <a href="https://github.com/rashidnarikkodan?tab=repositories">
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="DevOps Stack" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws,azure,nginx,vercel,githubactions,jenkins,postman,figma&theme=dark" alt="Infra Tools Stack" />
 </a>
 
 ---
