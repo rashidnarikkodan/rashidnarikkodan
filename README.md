@@ -78,13 +78,13 @@ Production-oriented e-commerce platform with authentication, cart management, pr
 
 [Repository →](https://github.com/rashidnarikkodan/Venicara_v2)
 
-### Profile
+### BookMyVenue
 
-Full-stack authentication system with JWT security, protected routes, and centralized state management.
+Full-stack venue booking system with venue management and discovery. Worked as Team lead of this project.
 
-`React` `Redux` `Node.js`
+`React` `Redis` `Node.js` `MongoDB`
 
-[Repository →](https://github.com/rashidnarikkodan/Profile)
+[Repository →](https://github.com/rashidnarikkodan/BookMyVenue)
 
 ### CinemaPot
 
