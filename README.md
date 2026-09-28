@@ -50,10 +50,10 @@ Clean Architecture · DDD · Event-Driven Systems
 WebSockets · WebRTC · Live State Synchronization
 
 **Frontend**  
-React · Next.js · Redux · Tailwind
+React · Next.js · Redux · Tailwind 
 
 **Infrastructure**  
-Linux · Docker · Nginx · CI/CD · AWS(EC2)
+Linux · Docker · Nginx · CI/CD · AWS(EC2) · Vercel
 
 **Data**  
 MongoDB · PostgreSQL · Redis
