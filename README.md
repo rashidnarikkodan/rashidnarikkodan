@@ -53,7 +53,7 @@ WebSockets · WebRTC · Live State Synchronization
 React · Next.js · Redux · Tailwind
 
 **Infrastructure**  
-Linux · Docker · Nginx · CI/CD
+Linux · Docker · Nginx · CI/CD · AWS(EC2)
 
 **Data**  
 MongoDB · PostgreSQL · Redis
