@@ -78,9 +78,11 @@ Production-oriented e-commerce platform with authentication, cart management, pr
 
 [Repository →](https://github.com/rashidnarikkodan/Venicara_v2)
 
-### BookMyVenue
+### BookMyVenue (Group Project)
 
-Full-stack venue booking system with venue management and discovery. Worked as Team lead of this project.
+Role : Team Lead
+
+Full-stack venue booking platform with venue management, user location-based discovery, and booking workflows. Served as the Team Lead, coordinating development and implementing core features.
 
 `React` `Redis` `Node.js` `MongoDB`
 
