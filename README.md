@@ -1,109 +1,116 @@
 <div align="center">
-  <a href="https://github.com/rashidnarikkodan">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,7C3AED,a855f7&height=250&section=header&text=Rashid%20Narikkodan&fontSize=65&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Systems-Focused%20Full-Stack%20Engineer&descAlignY=60&descAlign=50&descSize=22" width="100%" alt="Header" />
-  </a>
 
-  <a href="https://github.com/rashidnarikkodan">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=a855f7&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Architecting+event-driven+platforms;Engineering+for+performance+and+reliability;Crafting+real-time+communication+services" alt="Typing SVG" />
-  </a>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0B0D0F&gradientColor=1A1D21&height=180&section=header&text=Rashid%20Narikkodan&fontSize=52&fontColor=F2F2F2&fontAlignY=42&animation=fadeIn"
+  width="100%"
+  alt="Rashid Narikkodan"
+/>
+
+### Full-Stack Engineer · Systems & Backend
+
+`Building reliable software • Designing scalable systems • Engineering with intent`
+
+<br />
+
+<a href="https://github.com/rashidnarikkodan">
+  <img src="https://img.shields.io/badge/GitHub-111315?style=flat-square&logo=github&logoColor=E5E7EB" />
+</a>
+<a href="https://linkedin.com/in/rashidnarikkodan">
+  <img src="https://img.shields.io/badge/LinkedIn-111315?style=flat-square&logo=linkedin&logoColor=E5E7EB" />
+</a>
+<a href="https://leetcode.com/rashidnarikkodan">
+  <img src="https://img.shields.io/badge/LeetCode-111315?style=flat-square&logo=leetcode&logoColor=E5E7EB" />
+</a>
+
 </div>
 
 <br />
 
 ---
 
-### About Me
+## About
 
-**Systems-Focused Full-Stack Engineer** specializing in high-performance backend engineering, system architecture, and API design. I am currently building scalable event-driven microservices and expanding my knowledge in advanced distributed systems and Linux kernel internals. Always open to exploring challenging engineering roles.
+I build full-stack applications with a strong focus on **backend engineering, system architecture, and real-time systems**.
 
----
+I am interested in how software behaves beyond the API surface — data modeling, distributed state, performance, reliability, and infrastructure.
 
-### Engineering Focus
-
-- **Backend Architecture:** Scalable backend systems, REST & GraphQL APIs
-- **Real-Time Systems:** WebSocket & WebRTC communication, live state synchronization
-- **Architecture & Design:** Event-driven systems, Microservices, Domain-Driven Design
-- **Infrastructure:** Linux workflows, Containerization, CI/CD pipelines
-- **Frontend Integration:** Performant React/Next.js applications with modern state management
-
-*Building real-world systems prioritizing maintainability, performance, and developer experience.*
+Currently exploring **event-driven architecture, distributed systems, Linux, and scalable backend design**.
 
 ---
 
-### Tech Stack
+## Engineering Focus
 
-**Frontend**
-<br />
-<a href="https://github.com/rashidnarikkodan?tab=repositories">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind,bootstrap,threejs,vite,webpack,babel&theme=dark" alt="Frontend Stack" />
-</a>
+**Backend**  
+TypeScript · Node.js · REST · GraphQL
 
-**Backend**
-<br />
-<a href="https://github.com/rashidnarikkodan?tab=repositories">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" alt="Backend Stack" />
-</a>
+**Architecture**  
+Clean Architecture · DDD · Event-Driven Systems
 
-**Databases**
-<br />
-<a href="https://github.com/rashidnarikkodan?tab=repositories">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase&theme=dark" alt="Database Stack" />
-</a>
+**Real-Time**  
+WebSockets · WebRTC · Live State Synchronization
 
-**Infrastructure & Tools**
-<br />
-<a href="https://github.com/rashidnarikkodan?tab=repositories">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws,azure,nginx,vercel,githubactions,jenkins,postman,figma&theme=dark" alt="Infra Tools Stack" />
-</a>
+**Frontend**  
+React · Next.js · Redux · Tailwind
+
+**Infrastructure**  
+Linux · Docker · Nginx · CI/CD
+
+**Data**  
+MongoDB · PostgreSQL · Redis
 
 ---
 
-### Projects
+## Selected Projects
 
-- [**Venicara**](https://github.com/rashidnarikkodan/Venicara_v2) — Production-style e-commerce system featuring a robust server-rendered backend architecture, cart state management, and real business logic. *(Node.js, Express, MongoDB, EJS)*
-- [**Profile**](https://github.com/rashidnarikkodan/Profile) — Secure full-stack system implementing JWT authentication, protected routing, and robust user state management. *(React, Redux, Node.js)*
-- [**CinemaPot**](https://github.com/rashidnarikkodan/CinemaPot) — Polished frontend application showcasing real-world data consumption and API integration with a clean architecture. *(React, Vite, TMDB API)*
+### WashQueue
+
+Real-time car wash queue and booking platform built around actual operational workflows.
+
+`TypeScript` `Node.js` `React` `MongoDB` `Redis` `Socket.IO`
+
+[Repository →](https://github.com/rashidnarikkodan/washqueue)
+
+### Venicara
+
+Production-oriented e-commerce platform with authentication, cart management, product workflows, and business logic.
+
+`Node.js` `Express` `MongoDB` `EJS`
+
+[Repository →](https://github.com/rashidnarikkodan/Venicara_v2)
+
+### Profile
+
+Full-stack authentication system with JWT security, protected routes, and centralized state management.
+
+`React` `Redux` `Node.js`
+
+[Repository →](https://github.com/rashidnarikkodan/Profile)
+
+### CinemaPot
+
+Movie discovery application built around external API integration and predictable frontend state.
+
+`React` `Vite` `TMDB API`
+
+[Repository →](https://github.com/rashidnarikkodan/CinemaPot)
 
 ---
 
-### GitHub Metrics
-
-
-<br />
-<div align="center">
-  <a href="https://github.com/rashidnarikkodan">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashidnarikkodan&theme=tokyo-night&bg_color=0f0c29&hide_border=true&color=a855f7&line=7C3AED&point=ffffff" width="100%" alt="Activity Graph" />
-  </a>
-</div>
-
----
-
-### Connect
-
-<div align="center">
-  <a href="https://github.com/rashidnarikkodan">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/rashidnarikkodan">
-    <img src="https://img.shields.io/badge/linkedin-%23302b63.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/rashidnarikkodan">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://leetcode.com/rashidnarikkodan">
-    <img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="mailto:contact@example.com">
-    <img src="https://img.shields.io/badge/email-%237C3AED.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
-<br />
+## Stack
 
 <div align="center">
-  <i>Building robust systems that scale. Code is read more often than it is written.</i>
-  <br /><br />
-  <a href="https://github.com/rashidnarikkodan">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,302b63,0f0c29&height=100&section=footer" width="100%" alt="Footer" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,graphql,mongodb,postgres,redis,docker,linux,nginx,git,githubactions&theme=dark" />
+
 </div>
+
+---
+
+<div align="center">
+
+```text
+Understand the system.
+Design around the domain.
+Keep boundaries explicit.
+Build for failure.
+Measure before optimizing.
